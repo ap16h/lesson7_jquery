@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 4, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Ali Pearson)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(I had to write code that would make my recipe website more dynamic.)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://ap16h.github.io/lesson7_jquery/.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned that no matter where you are in your DOM tree, there are many ways to find every single node possible..)
+2. (I learned how to filter through code by transversing, usinf ,first, .last, etc.)
+3. (I learned how to make my website more interactive by using the ready and on function.)
 
